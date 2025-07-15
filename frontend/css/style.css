@@ -6,6 +6,15 @@ body {
   color: #333;
 }
 
+h1, h2 {
+  color: #2a7da2;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
 /* Header */
 header {
   background-color: #1976d2;
@@ -54,4 +63,5 @@ footer {
   .card {
     padding: 0.75rem;
   }
+
 }
